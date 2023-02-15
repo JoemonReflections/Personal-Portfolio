@@ -3,7 +3,7 @@ import React from "react";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 import webdev from "../assets/webdev.png"
-import SocMediaLinks2 from "./SocMediaLinks2";
+import SocMediaLinks2 from "./SocMediaLinks1";
 
 
 const Home = () => {
@@ -16,12 +16,12 @@ const Home = () => {
           <div className="flex flex-col justify-center h-full">
             <p className="text-gray-500 text-2xl py-4 max-w-md">Hi, I'm</p>
             <h2 className="text-4xl sm:text-7xl font-bold text-white">
-              RAHMATH
+              Joemon V
             </h2>
             <h2 className="text-4xl sm:text-7xl  text-white">
-              IRSHAD
+              Velassery
             </h2>
-            <p className="text-gray-500 text-lg py-4 max-w-md md:text-2xl">FRONT-END WEB DEVELOPER 👨‍💻</p>
+            <p className="text-gray-500 text-lg py-4 max-w-md md:text-2xl">FULL STACK DEVELOPER 👨‍💻</p>
 
             <div className="flex">
               <Link

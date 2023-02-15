@@ -12,7 +12,7 @@ const SocMediaLinks = () => {
         <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/Rahmath_Irshad_Resume.pdf",
+      href: "",
       download: true,
     },
     {
@@ -22,7 +22,7 @@ const SocMediaLinks = () => {
           <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/rahmath-irshad-74781988/",
+      href: "",
     },
     {
       id: 3,
@@ -31,7 +31,7 @@ const SocMediaLinks = () => {
         <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/Rahmathirshad",
+      href: "https://github.com",
     },
     {
       id: 4,
@@ -40,7 +40,7 @@ const SocMediaLinks = () => {
         <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:rahmathirshad@gmail.com",
+      href: "mailto:joemonv97@gmail.com",
     },
   ];
 
